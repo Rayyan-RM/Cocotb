@@ -1,2 +1,6 @@
 # Cocotb
-This folder contained some cocotb verified RTLS
+This folder contained coctb verification of counters
+
+Prerequisted : Cocotb libraty ( axi stream cocotb as well)
+
+![alt text](image.png)
